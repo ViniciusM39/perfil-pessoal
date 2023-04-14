@@ -1,0 +1,35 @@
+ img{
+   
+  height: 300px;
+  width: 250px;
+  text-align: center;
+  border-radius: 1000%;
+}
+
+
+
+h2{
+  color: black;
+  font-size: 50px;
+  text-align: center;
+}
+
+.main{
+  text-align: center
+}
+
+.description{
+color: black;
+font-size: larger;
+font-size: 80%;
+}
+a{
+  font-size: 30px;
+  color: black
+}
+body{
+ background-color: red;
+}
+ h4{
+   color: black;
+ }
